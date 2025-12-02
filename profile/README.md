@@ -1,6 +1,6 @@
 <div align="center">
     <a href="oraculocomunidad.com" target="_blank"></s>
-        <img  src="./img/oraculo-baclground.webp" alt="banner" />
+        <img  src="../img/oraculo-baclground.webp" alt="banner" />
     </a>
 </div>
 
