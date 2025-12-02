@@ -4,8 +4,6 @@
     </a>
 </div>
 
-# 🌐 Comunidad del Oráculo
-
 Bienvenido a la **Comunidad del Oráculo**, un espacio colaborativo conformado por desarrolladores con diferentes niveles de experiencia, habilidades y especialidades.
 Nuestra misión es **impulsar el crecimiento técnico y profesional**, crear proyectos reales en conjunto y compartir conocimiento a través de charlas, mentorías, cursos y actividades abiertas.
 
